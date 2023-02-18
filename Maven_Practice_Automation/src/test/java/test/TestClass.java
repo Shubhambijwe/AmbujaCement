@@ -46,7 +46,11 @@ public class TestClass {
 		p.sendBlockNo();
 		p.clickOnContinue();
 		
-		
+		System.out.printlon("Students");
+		System.out.printlon("Life");
+		System.out.printlon("Students");
+		System.out.printlon("Teachaing");
+		System.out.printlon("student1");
 	}
 
 }
