@@ -7,6 +7,10 @@ public class Testing {
 		System.out.println("Goodnight");
 		System.out.println("GoodMorning");
 		System.out.println("Hello");
+		
+		System.out.println("Ho");
+		System.out.println("llo");
+		System.out.println("Hlo");
 	}
 
 }
